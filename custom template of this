@@ -1,0 +1,106 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/codefug/onlineShopProject">
+    <img src="./src/assets/HomeImage/chzzkHomeImage.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">onlineShopProject</h3>
+
+  <p align="center">
+  Simple Online store toy project Using Vanila JS.
+  First Webpack Experience
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Product Name Screen Shot][product-screenshot1]
+window.onload event를 이용한 loading 화면
+
+![Alt text](src/screenshotForReadMe/HomePage.png)
+페이지의 홈, 치지직을 기념하여 로고, 설명, 오픈 날짜를 게시하였다.
+
+![Alt text](src/screenshotForReadMe/itemPage.png)
+스트리머의 아이템을 소개하는 페이지
+
+![Alt text](src/screenshotForReadMe/streamerPage.png)
+스트리머 자체를 소개하는 페이지
+
+![Alt text](src/screenshotForReadMe/contactPage.png)
+네이버 본사에 대한 정보, 개발자 (나) 에 대한 정보를 나타내는 페이지
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+* ![JavaScript][JavaScript.url]
+* ![HTML5][HTML5.url]
+* ![CSS3][CSS3.url]
+* ![Webpack][Webpack.url]
+* ![NPM][npm.url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+codefug
+
+Project Link: [https://github.com/codefug/onlineShopProject](https://github.com/codefug/onlineShopProject)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+<ol>
+    <li>웹팩 환경 설정시 배운 지식</li>
+    <ul>
+        <li>공식문서를 활용하여 webbundle이 무엇인지, 이를 통해서 할 수 있는 것은 무엇인지를 배웠다.</li>
+        <li>dev와 prod setting을 merge를 이용해서 따로 지정하였고 common이라는 setting엔 각 loader들을 넣는다.</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <li>hg</li>
+    <ul>
+        <li>hi</li>
+    </ul>
+    <li>hg</li>
+    <ul>
+        <li>hi</li>
+    </ul>
+    <li>hg</li>
+    <ul>
+        <li>hi</li>
+    </ul>
+</ol>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot1]: ./src/screenshotForReadMe/LoadingPage.png
+[JavaScript.url]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5.url]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS3.url]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[Webpack.url]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
+[npm.url]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
